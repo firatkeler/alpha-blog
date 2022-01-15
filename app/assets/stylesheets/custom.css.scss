@@ -46,6 +46,13 @@ body {
   background: linear-gradient(to right, #0062E6, #33AEFF);
 }
 
+.badge {
+  background-color: #CEF6F5 !important;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold !important;
+}
+
 .flickr_pagination {
   text-align: center;
   padding: 0.3em;
